@@ -12,3 +12,27 @@ Rapports/Rapport UE Statistiques.docx
 data/TRHAA/RR.xlsx
 aaa
 data/stats/output_df_small.csv
+input/TRHAA/DATA Fr_ParisIDF_TtSaufSorbonne_6335.xlsx
+input/TRHAA/test extract.xlsx
+.gitignore
+input/TRHAA/TRHAA_Lookup_Fr_ParisIDF_SorbonneP1_4414.xlsx
+input/TRHAA/TRHAA_Lookup_Fr_TtSaufParis_7411.xlsx
+input/TRHAA/URL_List_Fr_TtSaufParis_7411.xlsx
+input/TRHAA/_old/2URL list Fr_ParisIDF_TtSaufSorbonne_6335.xlsx
+input/TRHAA/_old/France_ParisIDF_TTSaufSorbonne_P1_Page4.xlsx
+input/TRHAA/_old/France_ParisIDF_TTSaufSorbonne_P1_Page3.xlsx
+input/TRHAA/_old/France_ParisIDF_TTSaufSorbonne_P1_Page2.xlsx
+input/TRHAA/_old/France_ParisIDF_TTSaufSorbonne_P1_Page1.xlsx
+input/TRHAA/_old/France_ParisIDF_Sorbonne_Paris1_Page4.xlsx
+input/TRHAA/_old/France_ParisIDF_Sorbonne_Paris1_Page3.xlsx
+input/TRHAA/_old/France_ParisIDF_Sorbonne_Paris1_Page2.xlsx
+.gitignore
+input/TRHAA/_old/France_ToutSaufParis_Page5.xlsx
+input/TRHAA/test.xlsx
+input/TRHAA/TRHAA_Lookup_Fr_ParisIDF_TtSaufSorbonneP1_6335.xlsx
+input/TRHAA/TRHAA_Lookup_TtSaufFr_NonRenseignes_60.xlsx
+input/TRHAA/URL_List_Fr_ParisIDF_TtSaufSorbonne_6335.xlsx
+input/TRHAA/URL_List_TtSaufFrance_NonRenseigne_60.xlsx
+output/trhaa/Rapport sur TRHAA.docx
+input/TRHAA/~$Liste_URL_WebPages_par1000.xlsx
+input/TRHAA/RR.xlsx
